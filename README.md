@@ -16,7 +16,7 @@ Prediction: The CNN model classifies the audio into categories:
 🚗 Noise (No emergency)
 
 Traffic Signal Update: If an emergency vehicle is detected:
-A dummy file is created to show that
+An examplefile is created to show that
 The traffic light in its direction turns GREEN.
 All other signals turn RED for 5 seconds before resetting.
 
